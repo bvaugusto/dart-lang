@@ -1,5 +1,5 @@
 ### Dart para iniciantes
-> https://www.schoolofnet.com/validar-certificado/?certificate=a7b3f30d-a204-4b72-83ea-c44d0097ed62
+> URL: https://www.schoolofnet.com/validar-certificado/?certificate=a7b3f30d-a204-4b72-83ea-c44d0097ed62
 > Código da credencial: a7b3f30d-a204-4b72-83ea-c44d0097ed62
 
 ### Dart orientado a objetos
